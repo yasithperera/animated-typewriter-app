@@ -24,7 +24,7 @@ npm (Node Package Manager)<br>
 #### Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/typewriter-cursor-particles-webapp.git
+git clone https://github.com/yasithperera/dep-12-app.git
 
 Navigate to the project directory:
 cd typewriter-cursor-particles-webapp
