@@ -1,4 +1,4 @@
-# DEP-12 Web App
+# animated-typewriter-app Web App
 A web application that combines a typewriter effect, cursor animation, and particle effects. Built with JavaScript, HTML, and CSS, using Vite for the development process and deployed on Firebase.
 
 ### Features
